@@ -39,6 +39,8 @@ func main() {
 $ go run main.go
 ```
 
+NOTE : `go run` peut prendre plusieurs fichiers `.go` ou un répertoires
+
 ## Variables
 
 ```go
