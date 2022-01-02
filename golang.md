@@ -56,6 +56,11 @@ y := 2
 var z int
 ```
 
+Une variable a un scope :
+- local (déclaration dans une fonction ou un bloc de code)
+- package (en dehors des fonctions)
+- global (en dehors des fonctions, commençant par un majuscule)
+
 ## Typage
 
 string, int (...), bool
