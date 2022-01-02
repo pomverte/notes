@@ -272,3 +272,13 @@ func (u user) toto() string {
 ```
 
 ## pass by value
+
+## Package
+
+Buildin package et custom package
+
+Les variables et fonctions sont accessibles à tous les fichiers qui sont dans le même package.
+
+Pour exposer une fonction à un autre package, il faut que son nom commence par une majuscule
+
+"Pas très explicite pour les néophyte"
